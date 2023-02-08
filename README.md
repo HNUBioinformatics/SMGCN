@@ -12,9 +12,15 @@ The number of known drugs targeting enzymes, ion channels, GPCRs, and nuclear re
 * scipy
 
 code
+
 clac_metric.py:  evaluating indicator
+
 loss.py:  loss function
+
 processing.data.py:  processing data
+
 utils.py:   Initial function
+
 SMGCN.py:  Model
+
 Main:   Main function
